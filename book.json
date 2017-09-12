@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "文档中心",
-    "head_title": "文档中心",
+    "head_title": "_PaaS+",
     "head_description": "PaaS+示例文档",
     "head_keywords": "PaaS,云平台,示例文档",
     "logo": "./images/paas.png",
