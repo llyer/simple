@@ -3,5 +3,5 @@
 - [部署](deploy.md)
 
 ### 什么是 云应用平台
-- [环境](whatis-paas-design/guide.md)
+- [环境](whatis-paas/guide.md)
 
