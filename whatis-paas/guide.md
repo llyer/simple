@@ -12,6 +12,6 @@ npm install
 # 安装 gitbook 模块
 gitbook install
 ```
-当使用绘画和摄影提升用户体验时，选择能够表达个人关联、信息和令人喜悦的图像。
+可以通过引用图片来丰富文档的内容。
 
 ![](../images/paas.png)    
